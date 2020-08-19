@@ -1,5 +1,8 @@
 # AMaCC = Arguably Minimalist Arm C Compiler
 
+共筆
+https://hackmd.io/s/coscup18-source-c-compiler
+
 ## Introduction
 AMaCC is built from scratch, targeted at 32-bit ARM architecture.
 It is a considerably stripped down version of C and it is meant as
